@@ -12,7 +12,4 @@ public class Car {
         return color;
     }
 
-    public void setColor(String color) {
-        this.color = color;
-    }
 }

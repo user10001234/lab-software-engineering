@@ -13,6 +13,6 @@ public class Car {
     }
 
     public void setColor(String color) {
-        this.color = color;
+        this.color = color.concat("12345");
     }
 }
